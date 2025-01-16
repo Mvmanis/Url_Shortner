@@ -14,4 +14,6 @@ Implemented:-
  The application is styled using custom CSS to ensure responsiveness and accessibility across devices.
 
 UI Looks like as below:-
-![image](https://github.com/user-attachments/assets/e6757c14-16ce-4483-a79f-9fe265df1bd9)
+
+![image](https://github.com/user-attachments/assets/a3579cc9-c5ce-427a-be51-a4a97b1c57d2)
+
